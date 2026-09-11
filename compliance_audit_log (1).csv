@@ -1,0 +1,7 @@
+audit_id,date,area_audited,finding,severity,status
+AUD-001,2026-01-10,Data Retention,Retention policy not updated,High,Open
+AUD-002,2026-01-15,Vendor Management,Missing risk assessment,Medium,Open
+AUD-003,2026-01-20,Access Control,Contractor account active,Critical,Open
+AUD-004,2026-02-05,Incident Response,Procedures tested,Low,Closed
+AUD-005,2026-02-10,Network Security,Firewall review completed,Low,Closed
+AUD-006,2026-02-15,Compliance Training,Training completed,Low,Closed

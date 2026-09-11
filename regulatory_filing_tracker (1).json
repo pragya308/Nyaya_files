@@ -1,0 +1,29 @@
+{
+  "document_id": "RFT-2026-003",
+  "version": "1.0",
+  "effective_date": "01-Jun-2026",
+  "reference_date": "2026-09-01",
+  "filings": [
+    {
+      "filing_id": "FIL-1001",
+      "jurisdiction": "Singapore",
+      "description": "Quarterly Service Reliability Report",
+      "due_date": "2026-10-15",
+      "status": "Pending"
+    },
+    {
+      "filing_id": "FIL-1002",
+      "jurisdiction": "Malaysia",
+      "description": "Network Resilience Compliance Statement",
+      "due_date": "2026-08-15",
+      "status": "Overdue"
+    },
+    {
+      "filing_id": "FIL-1003",
+      "jurisdiction": "Australia",
+      "description": "Telecommunications Infrastructure Audit Return",
+      "due_date": "2026-09-20",
+      "status": "Pending"
+    }
+  ]
+}
